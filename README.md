@@ -1,1 +1,1 @@
-Personal webpage. Highly inspired by https://github.com/flexdinesh/dev-landing-page
+Personal webpage using Github Pages default Jekyll intergation
