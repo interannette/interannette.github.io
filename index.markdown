@@ -5,4 +5,4 @@
 layout: home
 ---
 
-A simple home page for Annette Spyker Mechelke.
+A simple Github pages site to host some links and resources.
