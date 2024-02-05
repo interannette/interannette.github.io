@@ -98,3 +98,19 @@ Key Take Aways:
 
 ### You Get to Say No: How Saying No Will Lead You to Time and Emotional Freedom
 
+### Leading in a World Of Overload
+Key Take Aways:
+* How we feel profoundly impacts how we perform; and impacts others.
+* We take capacity for granted. Time is finite, but energy is flexible. More energy = more capacity
+* It's not just the number of hours we invest that determines the value we create, it's the energy we bring to them.
+* Four dimensions of energy:
+  * physical
+  * emotional
+  * mental
+  * spiritual
+* The more intense the performance demand, the greater the need to regularly renew ourselves.
+* How could you renew your energy in: 1 minute? 5 minutes? 10-30 minutes? Make a list and post it somewhere!
+* Everything in our body pulses. Where in the day can you build in a pit stop; that's how we are designed.
+* Emotional engergy quadrants: Y-axis: High/low energy X-axis: Negative/positive energy
+  * "Pulse" between "Performance Zone" (high positive energy) and "Renewal Zone" (low positive engergy)
+  * Avoid Surivial Zone (high negative) & Burnout Zone (low negative)
