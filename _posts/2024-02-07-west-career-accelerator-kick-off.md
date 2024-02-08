@@ -4,8 +4,6 @@ title: WEST Career Accelerator Kick Off
 date: 2024-02-07 20:51 -0600
 ---
 
-# WEST Career Accelerator Kick Off
-
 Today was the official start of the [WEST Career Accelerator](https://www.joinwest.org/mentorship/career-accelerator-program) for my cohort.
 
 We spent an hour going over the logistics of the program and getting to know the other women in our cohort of five.
