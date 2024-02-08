@@ -11,6 +11,7 @@ The summit was a great experience unlike any other conference I have participate
 Why did I set myself this goal?
 * Writing about what I learn will help me retain the information, as well as giving myself something to refer to in the future.
 * Committing to a schedule (at least one post per event) gives me some structure and accountability.
+* Posting publicly here rather than on social media will be a nice little technical growth project. I've already learned a bit about Ruby, Jekyll, and GitHub Pages in setting up this blog.
 * Maybe some day someone else will find this helpful.
 
 I'm looking forward to intentional focus on career growth!
