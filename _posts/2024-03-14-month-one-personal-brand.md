@@ -2,7 +2,11 @@
 layout: post
 title: 'Month One: Personal Brand'
 date: 2024-03-14 20:00 -0500
+tags: WEST, wca
+excerpt_separator: <!--more-->
 ---
+
+<!--more-->
 
 # Personal brand? ::eye roll::
 

@@ -2,6 +2,7 @@
 layout: post
 title: WEST Leadership Summit 2024
 date: 2024-02-04 15:41 -0600
+tags: WEST, conference
 ---
 January 24-26th I participated in the [WEST Leadership Summit](https://2024westsummit.splashthat.com/). The leadership summit was a virtual conference unlike any other I have attended. It was a small, focused set of talks that encouraged engaged participation. I had at least a few useful take aways from each talk. But for me a lot of the value was in seeing the representation of strong women leaders in technology.
 

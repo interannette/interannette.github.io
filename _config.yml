@@ -30,7 +30,7 @@ github_username:  interannette
 linkedin_username : annette-spyker-mechelke
 
 
-show_excerpts: false
+show_excerpts: true
 
 # Build settings
 theme: minima

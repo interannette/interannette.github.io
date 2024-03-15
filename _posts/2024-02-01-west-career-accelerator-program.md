@@ -2,6 +2,7 @@
 layout: post
 title: WEST Career Accelerator Program
 date: 2024-02-01 20:06 -0600
+tags: WEST, wca
 ---
 
 I recently joined the [WEST Career Accelerator program](https://www.joinwest.org/mentorship/career-accelerator-program) for 2024. While not officially part of the program, accelerator participants were invited to participate in the [WEST Leadership Summit](https://2024westsummit.splashthat.com/). 
